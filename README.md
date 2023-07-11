@@ -1,1 +1,0 @@
-Project covers Git commands
