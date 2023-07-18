@@ -1,0 +1,4 @@
+Class Product {
+
+  int productId;
+}
