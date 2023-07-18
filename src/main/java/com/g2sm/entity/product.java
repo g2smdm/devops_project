@@ -6,4 +6,5 @@ Class Product {
   String productColor;
   String productSize;
   String productRange;
+  Double price;
 }
