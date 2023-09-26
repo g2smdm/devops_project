@@ -1,3 +1,3 @@
-Class Product {
+public class Product {
 
 }
